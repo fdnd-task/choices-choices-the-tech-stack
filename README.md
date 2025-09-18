@@ -1,6 +1,10 @@
-> _Fork_ deze leertaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
+# Choices, Choices - The Tech-stack
+
+Kies een andere tech-stack voor het ontwerpen en bouwen van een website voor een opdrachtgever.
+
 De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/choices-choices-the-tech-stack/blob/main/docs/INSTRUCTIONS.md)
+
+
 
 # Titel
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
