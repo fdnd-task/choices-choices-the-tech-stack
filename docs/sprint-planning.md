@@ -11,6 +11,15 @@ In [Sprint 14: Lose Your Head](https://github.com/fdnd-task/lose-your-head-the-c
 
 Je kiest een semi-willekeurige stack op jamstack.org, door een Headless CMS en een (static) Site Generator te selecteren. Semi-willekeurig omdat je met jouw team in ieder geval allemaal een andere keuze maakt. Als je een team van 5 personen hebt worden er dus 5 verschillende tech-stacks onderzocht en geimplementeerd.
 
+## Planning maken
+Lees de instructies van de workshops van vandaag eerst goed door en bekijk het programma van Sprint 14. Teken een schema op het whiteboard voor de komende drie weken en neem de belangrijke momenten en opdrachten uit het programma op in het schema.
+
+## Project board en Sprint Review verwerken
+Voeg de planning van het schema toe aan jullie project board.  
+Verwerk de feedback van de Sprint Review van sprint 14, maak issues van de taken waar je mee aan de slag wil deze sprint.
+
+
+
 #### Extra bronnen
 <!-- Extra links voor documentatie en tutorials -->
 
