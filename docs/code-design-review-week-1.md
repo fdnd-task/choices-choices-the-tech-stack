@@ -1,7 +1,7 @@
 
 # Choices, Choices - The Tech-stack
 
-## Code/Design-review Justify Your Techstack
+## Code/Design-review
 
 Code review op je framework code.
 
