@@ -22,7 +22,7 @@ In deze sprint experimenteer je met andere frameworks en tools; je ontwerpt en b
 Deze leertaak worden verschillende workshops aangeboden:
 
 - [Sprint Planning](sprint-planning.md)
-- [Techstack](techstack.md)
+- [Justify Your Techstack](justify-your-techstack.md)
 - [Code/Design-review - Justify Your Techstack](code-design-review-week-1.md)
 - [Teamlead](teamlead.md)
 - [Wrap-up](wrap-up.md)
