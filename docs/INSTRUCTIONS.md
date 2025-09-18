@@ -5,11 +5,13 @@ Onderzoek een andere tech-stack voor het ontwerpen en bouwen van een website voo
 
 ## Context
 
-Deze leertaak hoort bij sprint 15: Choices, choices ... Dit is een opdracht die je individueel uitvoert voor jouw opdrachtgever (dezelfde als in sprint 14).
+Deze leertaak hoort bij sprint 15: Choices, choices ... Dit is een opdracht die je individueel in je team uitvoert voor jouw opdrachtgever.
 
+<!--
 Bij deze leertaak hoort de deeltaak:
 
 - [Choices, Choices - Justify Your Tech Stack](https://github.com/fdnd-task/choices-choices-justify-your-tech-stack)
+-->
 
 ## Doel van deze opdracht
 
