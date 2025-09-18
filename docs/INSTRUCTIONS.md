@@ -25,10 +25,10 @@ Deze leertaak worden verschillende workshops aangeboden:
 
 - [Sprint Planning](sprint-planning.md)
 - [Justify Your Techstack](justify-your-techstack.md)
-- [Code/Design-review - Justify Your Techstack](code-design-review-week-1.md)
+- [Code/Design-review](code-design-review-week-1.md)
 - [Teamlead](teamlead.md)
 - [Wrap-up](wrap-up.md)
-- [Presentaties Techstack](presentaties-techstack.md)
+- [Presentaties Justify Your Techstack](presentaties-techstack.md)
 
 ## Definition of done
 
