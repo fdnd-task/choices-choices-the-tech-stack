@@ -19,10 +19,16 @@ Tijdens deze sprint worden een aantal workshops aangeboden waar verschillende op
 
 - [Sprint Planning](sprint-planning.md)
 - [Justify Your Techstack](justify-your-techstack.md)
+<<<<<<< Updated upstream
 - [Projectinrichting](projectinrichting.md)
 - [Code/Design-review](code-design-review-week-1.md)
 - [Mentor](mentor.md)
 - Workshop React/Next.js
+=======
+- [Projectmanagement](projectmanagement.md)
+- [Code/Design-review](code-design-review-week-1.md)
+<!-- - [Mentor](mentor.md) -->
+>>>>>>> Stashed changes
 - [Wrap-up](wrap-up.md)
 - [Presentaties Justify Your Techstack](presentaties-techstack.md)
 

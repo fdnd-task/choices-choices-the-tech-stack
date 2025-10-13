@@ -1,9 +1,9 @@
 
 # Choices, Choices - The Tech-stack
 
-## Code/Design-review
+## Retrospect
 
-Code review op je framework code.
+Terugkijken op de afgelopen sprint, portflow compleet maken en assessment voorbereiden. Presentaties onderzoeksbevindingen tech-stack vandaag presenteer je jouw onderzoek naar de tech-stack. 
 
 ## Aanpak
 <!-- Workshop aanpak uitgeschreven-->
