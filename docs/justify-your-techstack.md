@@ -9,9 +9,9 @@ Over het onderbouwd kiezen van een tech-stack.
 
 Je leert hoe je systematisch onderzoek doet naar een passende tech-stack voor een opdracht én hoe je deze keuze kunt onderbouwen en presenteren.
 
-
 ## Aanpak
-Afgelopen sprints heb je websites gebouwd met tooling: Prismic.io, HyGraph, Sveltekit, GitHub en Netlify. Zo’n serie tools die met elkaar werken noemen we vaak een *tech-stack*. In deze leertaak onderzoek je wat de voor- en nadelen van een specifieke tech-stack zijn. Het staat je vrij een keuze te maken, voor de hand liggende keuzes voor frameworks zijn: Vue, React, Angular, Nuxt of Next maar iets totaal anders mag ook. Het enige dat is uitgesloten is de tech-stack waar je al mee gewerkt hebt. Elk framework heeft specifieke backend systemen waar het goed mee samenwerkt, denk aan: Prismic.io, Supabase, Hygraph, Firebase etcetera. Daarnaast kan je ook specifieke tools voor specifieke doeleinden gebruiken, bijvoorbeeld: three.js of Babylon.js voor 3d animatie, d3.js voor datavisualisaties. Kortom, keuze te over. Een overzicht van alle mogelijke keuzes vind je op [https://jamstack.org/](https://jamstack.org/) onder de kopjes Headless CMS en Site Generator.
+
+Afgelopen sprints heb je websites gebouwd met tooling: Directus, Sveltekit en Netlify. Zo’n serie tools die met elkaar werken noemen we vaak een *tech-stack*. In deze leertaak onderzoek je wat de voor- en nadelen van verschillende tech-stacks zijn. Naast een paar door ons gekozen tech-stacks - 11ty en React/Next - staat het je vrij om zelf nóg een keuze te maken, voor de hand liggende keuzes voor frameworks zijn: Vue, React, Astro, Angular of Nuxt maar iets totaal anders mag ook. Uitgesloten zijn de tech-stack waar je al mee gewerkt hebt en de tech-stack die wij zelf presenteren. Elk framework heeft specifieke backend systemen waar het goed mee samenwerkt, denk aan: Directus, Prismic, Supabase, Hygraph, Firebase etcetera. Daarnaast kan je ook specifieke tools voor specifieke doeleinden gebruiken, bijvoorbeeld: three.js of Babylon.js voor 3d animatie, d3.js voor datavisualisaties. Kortom, keuze te over. Een overzicht van alle mogelijke keuzes vind je op [https://jamstack.org/](https://jamstack.org/) onder de kopjes Headless CMS en Site Generator.
 
 Bij het onderzoeken van een mogelijke tech-stack is het belangrijk de belanghebbenden - in het engels *stakeholders* - goed in acht te nemen. Bij het werken met de tech-stack komen immers meerdere partijen samen. Jouw organisatie die als ontwikkelaar van een systeem ingehuurd wordt, de gebruiker die uiteindelijk met het systeem moet gaan werken én (medewerkers van) de opdrachtgever die het systeem gaat beheren.
 
@@ -22,7 +22,12 @@ In jouw onderzoek ga je van de drie eerdergenoemde invalshoeken uit bij het onde
 - [Developer eXperience (DX)](#2-developer-experience)
 - [Content management eXperience (CX)](#3-content-management-experience)
 
-Begin met het op een rij zetten van een tech-stack, je kunt hierbij hulp vragen aan je docenten of mede-studenten. Voel je vrij om iets te kiezen waar je nog geen ervaring mee hebt, we gaan immers onderzoeken! 
+Begin met het op een rij zetten van drie verschillende tech-stacks:
+1. 11ty
+2. React/Next
+3. Jouw eigen keuze
+
+Voel je vrij om zelf iets te kiezen waar je nog geen ervaring mee hebt, we gaan immers onderzoeken! 
 
 N.B.: Wellicht helpt het je om een paar van de [bronnen](#bronnen) door te lezen om grip te krijgen op waar we het over hebben. Dat gaat je helpen bij het uitvoeren van onderstaande opdrachten.
 
@@ -33,9 +38,9 @@ Voor de UX is het belangrijk te weten wie de gebruikers zijn van de website, wat
 Denk aan de door jou in het verleden bij FDND opgedane kennis omtrent UX bij het uitvoeren van dit onderzoek.
 
 ##### Aanpak
-1. Beschrijf de verschillende type personen in jouw doelgroep en bepaal wat de randvoorwaarden zijn die door bijvoorbeeld hun devices of tech-geletterdheid gesteld worden.
-2. Onderzoek jouw tech-stack op user experience. Bijvoorbeeld door het doen van een snelle WCAG audit met lighthouse of Axe of een device test met een van de devices uit het device lab (de plastic koffers). Houdt je eerdere ervaring bij FDND met betrekking tot UX in het achterhoofd.
-3. Documenteer je bevindingen in de wiki!
+1. Beschrijf de verschillende type personen in de doelgroep en bepaal wat de randvoorwaarden zijn die door bijvoorbeeld hun devices of tech-geletterdheid gesteld worden.
+2. Onderzoek de tech-stack op user experience. Bijvoorbeeld door het doen van een snelle WCAG audit met lighthouse of Axe of een device test met een van de devices uit het device lab (de plastic koffers). Houdt je eerdere ervaring bij FDND met betrekking tot UX in het achterhoofd.
+3. Documenteer je bevindingen in een Gist!
 
 #### 2. Developer eXperience
 
@@ -51,21 +56,21 @@ Tenslotte is een **heldere interface** (bijv. API) waar je tegen aan programmeer
 
 ##### Aanpak
 
-1. Onderzoek jouw tech-stack op developer experience. Het beste is een klein project met de tech-stack proberen te realiseren, bijvoorbeeld een oude leertaak.
-2. Documenteer je bevindingen in de wiki! Bijvoorbeeld door genoemde punten te beschrijven: functies, betrouwbaarheid, gemak en helderheid.
+1. Onderzoek de tech-stack op developer experience. Het beste is een klein project met de tech-stack proberen te realiseren, bijvoorbeeld een oude leertaak.
+2. Documenteer je bevindingen in een Gist! Bijvoorbeeld door genoemde punten te beschrijven: functies, betrouwbaarheid, gemak en helderheid.
 
 #### 3. Content Management eXperience
 
-Het CMS gaat gebruikt worden door de opdrachtgevers of andere content beheerders. Of de beheerders jouw CMS kunnen gebruiken hangt af van het gebruiksgemak en de benodigde technische capaciteit. Als je een ingewikkeld GraphQL systeem gebruikt met onderlinge afhankelijkheden moet een CM-team best tech-savvy zijn, bij een tool als prismic valt dat heel erg mee (zeker als je user-levels gebruikt!).
+Het CMS gaat gebruikt worden door de opdrachtgevers of andere content beheerders. Of de beheerders jouw CMS kunnen gebruiken hangt af van het gebruiksgemak en de benodigde technische capaciteit. Als je een ingewikkeld GraphQL systeem gebruikt met onderlinge afhankelijkheden moet een CM-team best tech-savvy zijn, bij een tool als Prismic valt dat heel erg mee (zeker als je user-levels gebruikt!).
 
 Wat voor eisen stelt jouw tech-stack aan de beheerder van het systeem? Hebben ze genoeg aan domein-kennis van hun eigen bedrijf of moeten ze een deel van jouw skills als frontend designer/developer omarmen voor ze iets kunnen toevoegen of aanpassen?
 
 ##### Aanpak
 
-1. Onderzoek jouw tech-stack op content management experience. De opleiding naast ons (Smart Media Production) gaat over content-beheer. Misschien kan je een van hun studenten interviewen over wat ze prettig vinden. Je kunt zelfs vragen of ze in een door jouw opgezet systeem content toe te voegen en of ze dat prettig vinden..
-2. Documenteer je bevindingen in de wiki! 
+1. Onderzoek de tech-stack op content management experience. Een andere opleiding bij de Faculteit, Smart Media Production, gaat over content-beheer. Misschien kan je een van hun studenten interviewen over wat ze prettig vinden. Je kunt zelfs vragen of ze in een door jouw opgezet systeem content toe te voegen en of ze dat prettig vinden..
+2. Documenteer je bevindingen in een Gist! 
 
-#### 4. Presentatie
+#### 4. Presentatie (tijdens de retrospect)
 
 Het hele onderzoek is te substantieel om te presenteren. Voeg daarom de conclusie en een paar *key-insights* uit elk van bovenstaande stappen samen een presentatie. Maak een korte presentatie in bijvoorbeeld powerpoint, waarin je in maximaal 5 slides (zonder introsheet en agenda) jouw bevindingen presenteert. Zorg er voor dat jouw presentatie te begrijpen is voor iemand die weet wat het frontend vakgebied inhoudt. Je presenteert dus niet aan leken.
 
@@ -73,11 +78,11 @@ Het hele onderzoek is te substantieel om te presenteren. Voeg daarom de conclusi
 
 1. Maak een mooie introsheet
 2. Laat een slide over voor de agenda
-3. Vertaal de conclusie en belangrijkste inzichten met betrekking tot de gebruikservaring (UX) naar één slide, gebruik zo weinig mogelijk tekst maar probeer dingen visueel te maken. Hint: Denk terug aan de lessen van Charley!
+3. Vertaal de conclusie en belangrijkste inzichten met betrekking tot de gebruikservaring (UX) naar één slide, gebruik zo weinig mogelijk tekst maar probeer dingen visueel te maken.
 4. Vertaal de conclusie en belangrijkste inzichten met betrekking tot de ontwikkelervaring (DX) naar één slide, gebruik zo weinig mogelijk tekst maar probeer dingen visueel te maken.
-4. Vertaal de conclusie en belangrijkste inzichten met betrekking tot de content management ervaring (CMX) naar één slide, gebruik zo weinig mogelijk tekst maar probeer dingen visueel te maken.
-5. Vul de agenda aan met de titels van je dia’s…
-6. Presenteer in de squad!
+5. Vertaal de conclusie en belangrijkste inzichten met betrekking tot de content management ervaring (CMX) naar één slide, gebruik zo weinig mogelijk tekst maar probeer dingen visueel te maken.
+6. Vul de agenda aan met de titels van je dia’s…
+7. Presenteer in de squad!
 
 ### Bronnen
 Hier wat bronnen die je kunnen helpen bij het structureren van je onderzoek:

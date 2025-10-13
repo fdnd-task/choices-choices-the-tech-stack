@@ -1,9 +1,8 @@
-
 # Choices, Choices - The Tech-stack
 
-## Teamleas
+## Projectinrichting
 
-Over de mentoring deeltaak.
+Over de projectinrichting…
 
 ## Aanpak
 <!-- Workshop aanpak uitgeschreven-->
