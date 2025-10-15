@@ -7,7 +7,7 @@ Reflecteren op je rol als mentor
 ## Aanpak
 <!-- Workshop aanpak uitgeschreven-->
 
-Jullie zijn nu een aantal weken mentor in jaar 1. Tijd om te reflecteren en te kijken wat je kunt verbeteren de aankomende twee weken voor de mid term. 
+Jullie zijn nu een aantal weken mentor in jaar 1. Tijd om te reflecteren en te kijken wat je kunt verbeteren de aankomende twee weken vooraf aan de mid term. 
 
 
 **🛠️ Opdracht: The good, the bad & the ugly (30 min)**  
