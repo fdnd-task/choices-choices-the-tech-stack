@@ -19,7 +19,7 @@ Tijdens deze sprint worden een aantal workshops aangeboden waar verschillende op
 
 - [Sprint Planning](sprint-planning.md)
 - [Justify Your Techstack](justify-your-techstack.md)
-- [Projectmanagement](projectmanagement.md)
+- [Projectinreichting](projectinrichting.md)
 - [Code/Design-review](code-design-review-week-1.md)
 - [Mentor](mentor.md)
 - Workshop React/Next.js
