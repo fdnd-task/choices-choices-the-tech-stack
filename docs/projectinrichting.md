@@ -2,18 +2,18 @@
 
 ## Projecinrichting
 
-Over uitbreiding van je Scrum skills.
+Over reviews, refinement en scrummen.
 
 ### Aanpak
 <!-- We schrijven in principe geen tutorials maar helpen ze op weg. -->
 
-Vorige sprint hebben we de standup, scrum rollen en sprintplanning behandeld. Om een goede sprintplanning uit te kunnen voeren is het belangrijk dat de stories klaar zijn om opgepakt te worden. Dit wordt gedaan in een refinement.
+Vorige sprint hebben we de [standup, scrum rollen en sprintplanning](https://github.com/fdnd-task/lose-your-head-the-client-case/blob/main/docs/projectinrichting.md) behandeld. Om een goede sprintplanning uit te kunnen voeren is het belangrijk dat de stories op de backlog klaar zijn om opgepakt te worden. Dit wordt gedaan in een refinement.
 
 1. Refinement
 
 ### 1. Refinement
 
-Om ervoor te zorgen dat stories echt klaar zijn om opgepakt te worden in de sprintplanning doen we een refinement. In deze meeting zorg je met elkaar ervoor dat de stories die nog op de backlog staan duidelijk zijn omschreven, gepokerd zijn en voldoen aan de Definition of Ready (die je samen hebt afgesproken).
+Om ervoor te zorgen dat stories _echt_ klaar zijn om gepland te kunnen worden in de sprintplanning doen we een refinement. In deze meeting zorg je met elkaar ervoor dat de stories die nog op de backlog staan duidelijk zijn omschreven, gepokerd zijn en voldoen aan de Definition of Ready (die je samen hebt afgesproken).
 
 **🛠️ Opdracht 1 - DoR en DoD (30 min)**  
 
