@@ -7,7 +7,7 @@ Over het onderbouwd kiezen van een tech-stack.
 
 ## Doel van deze opdracht
 
-Je leert hoe je systematisch onderzoek doet naar een passende tech-stack voor een opdracht én hoe je deze keuze kunt onderbouwen en presenteren. Vandaag gaan we, na het college van Chanel van Triple/Hypersolid aan de slag met de installatie van React/Next. Elk framework heeft specifieke backend systemen waar het goed mee samenwerkt, probeer vandaag een eerder door jou gebruikte API, bijv. whois.fdnd.nl of de API uit je project, om jouw oefening mee uit te voeren.
+Je leert hoe je systematisch onderzoek doet naar een passende tech-stack voor een opdracht én hoe je deze keuze kunt onderbouwen en presenteren. Vandaag gaan we, na het college van Chanel van Triple/Hypersolid aan de slag met de installatie van React/Next. We gebruiken daarvoor de [documentatie op de Next.js website](https://nextjs.org/docs). Elk framework heeft specifieke backend systemen waar het goed mee samenwerkt, probeer vandaag een eerder door jou gebruikte API, bijvoorbeeld de API uit je project, om jouw oefening mee uit te voeren.
 
 ## Aanpak
 
@@ -66,6 +66,7 @@ Wat voor eisen stelt jouw tech-stack aan de beheerder van het systeem? Hebben ze
 ### Bronnen
 Hier wat bronnen die je kunnen helpen bij het structureren van je onderzoek:
 
+- https://nextjs.org/docs
 - https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9
 - https://www.softermii.com/blog/10-tips-in-choosing-the-best-tech-stack-for-your-web-application
 - https://symfony.com/ten-criteria
