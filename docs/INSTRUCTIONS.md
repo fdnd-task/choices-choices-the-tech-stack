@@ -22,9 +22,7 @@ Tijdens deze sprint worden een aantal workshops aangeboden waar verschillende op
 - [Projectinrichting](projectinrichting.md)
 - [Code/Design-review](code-design-review-week-1.md)
 - [Mentor](mentor.md)
-- Workshop React/Next.js
-- [Code/Design-review](code-design-review-week-1.md)
-- [Mentor](mentor.md)
+- [Workshop React/Next.js](react-next.md)
 - [Wrap-up](wrap-up.md)
 - [Presentaties Justify Your Techstack](presentaties-techstack.md)
 
