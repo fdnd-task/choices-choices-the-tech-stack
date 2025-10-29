@@ -33,14 +33,22 @@ In het dagelijks leven zorgt logica voor heldere redenering, betere besluitvormi
 
 ### Mentor feedback
 
-Veel mentoren hebben feedback gekregen van de eerstejaars. Jullie hebben zelf ook gereflecteerd op je rol als mentor. Vandaag gaan we dit samenvoegen. 
+Veel mentoren hebben feedback gekregen van de eerstejaars. Jullie hebben zelf ook gereflecteerd op je rol als mentor. Vandaag gaan we dit samenvoegen. We gaan hiervoor een oefening uitvoeren, geïnspireerd op de *mesotesleer*, de leer van het juiste midden, van filosoof Aristoteles. 
+
+Arie schreef dat elke deugd, een handeling die ‘goed’ is, in het midden tussen twee ondeugden staat. De ondeugden beschrijven de uitersten van een tekort of teveel aan die deugd. De deugd moed staat bijvoorbeeld tussen lafheid en overmoed. 
+
+```
+Lafheid ----------- Moed ----------- Overmoed
+```
+
+Deugdelijk handelen, iets wat elk persoon in potentie kan doen, is gericht op het juiste midden. Dat juiste midden is situatieafhankelijk, dus het hangt van de context en de personen in kwestie af of je iets meer naar het tekort of het teveel beweegt binnen een bepaalde handeling. De *mesotesleer* kan vandaag de dag dienen als instrument om je eigen handelen te evalueren en wij gaan dat toepassen op het mentorschap bij FDND.
 
 **🛠️ Opdracht mentor feedback (30 minuten)**  
 
-1. Beschrijf het "tekort" en een "teveel" bij elk van je taken als [mentor](https://github.com/fdnd-task/mentor/blob/main/docs/INSTRUCTIONS.md#werkwijze), en maak hier een lijn van:
+1. Beschrijf bij elk van je taken als [mentor](https://github.com/fdnd-task/mentor/blob/main/docs/INSTRUCTIONS.md#werkwijze) de extremen van het "tekort" en "teveel" en maak hier een lijn van:
 
 ```
-"Tekort" ----------------------------------- "teveel"
+Tekort ---------------------------- Teveel
 ```
 
 ```
