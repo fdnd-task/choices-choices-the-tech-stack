@@ -7,7 +7,7 @@ Hoe ver ben je gekomen? Laatste dingen afmaken, elkaar helpen, documentatie op o
 
 ### Aanpak
 
-Vorige sprint hebben we samen een [todo lijst](https://github.com/fdnd-task/your-tribe-for-life-squad-page/blob/main/docs/wrapup.md#oplever-todos) gemaakt met onderdelen voor de het afsluiten van een sprint, we gaan die lijst updaten, mentor feedback verwerken en we gaan aan de slag met het voorbereiden van de retrospect. 
+Vorige sprint hebben we samen een [todo lijst](https://github.com/fdnd-task/lose-your-head-the-client-case/blob/main/docs/wrapup.md#oplever-todos) gemaakt met onderdelen voor de het afsluiten van een sprint, we gaan die lijst updaten, mentor feedback verwerken en we gaan aan de slag met het voorbereiden van de retrospect. 
 
 1. Oplevering
 2. Argumentatieproces
