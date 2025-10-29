@@ -16,7 +16,64 @@ Vorige sprint hebben we samen een [todo lijst](https://github.com/fdnd-task/lose
 
 ### Oplevering
 
-We pakken de lijst van de vorige wrap up erbij en kijken of die nog steeds klopt of dat er aanvullingen zijn met inzichten van de huidige sprint. 
+**🛠️ Opdracht 1 (15 min)**  
+
+#### Sprint oplever todo's:
+
+Wat moet er in de oplevering zitten?
+
+- [`README.md`](#readme)
+- [Alles moet getest zijn](#testen)
+- [Projectboard](#projectboard)
+- [Opdrachtgever](#opdrachtgever)
+- Live staan + live link
+- Geen open pull requests
+
+#### Opdrachtgever
+- Presentatie voorbereid (geen powerpoint!) voor de sprint review
+- Vragen voor de opdrachtgever voorbereiden
+- Agenda opgezet
+- Maakt een afspraak voor de sprint review
+
+#### Projectboard
+- Moscow is toegepast
+- User stories zijn gepokerd en hebben een waarde
+- User stories in juiste fase
+- Epics
+- User stories, als ... wil ik ... zodat ik ...
+- Issues/User stories sluiten
+- Backlog met user stories
+- Optioneel: deadlines op user stories
+- Refinement
+- DoD
+- DoR
+
+#### Refactor
+- Structuur van je mappen
+- Netjes uitlijnen van code
+- Ongebruikte code is verwijderd
+- Ongebruikte files zijn verwijderd
+- Comments in code
+- Comments met bronnen
+- Conventies uit `CONTRIBUTING.md` zijn gehandhaafd, inclusief FDND conventies
+- Code opdelen in components
+- Branches die gemerged zijn archiven (staat in FDND conventies hoe dat werkt)
+
+#### README
+- Informatie voor installatie, indien nodig een stukje code voor uitleg
+- Omschrijving van het project
+- Ontwerpkeuzes uitleggen, inclusief screenshots
+- Functionaliteiten uitleg
+- Uitleg hoe kun je bijdragen
+- Link naar de licentie
+- Datamodel vanuit mermaid
+
+#### Testen
+- Performance
+- A11y, tab, kleur, screenreader
+- User test
+- Responsive + Device test + Browser test
+- Html validator
 
 ### Argumentatie proces
 
