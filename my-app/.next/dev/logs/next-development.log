@@ -1,0 +1,10 @@
+{"timestamp":"00:00:00.668","source":"Server","level":"LOG","message":"- Cache Components enabled"}
+{"timestamp":"00:00:00.668","source":"Server","level":"LOG","message":"- Partial Prefetching enabled"}
+{"timestamp":"00:00:00.668","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:05.924","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"20:00:37.530","source":"Server","level":"ERROR","message":"⨯ PageNotFoundError: Cannot find module for page: route not found /_not-found/page"}
+{"timestamp":"20:00:39.275","source":"Server","level":"ERROR","message":"⨯ PageNotFoundError: Cannot find module for page: route not found /_not-found/page"}
+{"timestamp":"20:00:39.296","source":"Server","level":"ERROR","message":"⨯ PageNotFoundError: Cannot find module for page: route not found /_not-found/page"}
+{"timestamp":"20:00:39.323","source":"Server","level":"ERROR","message":"⨯ PageNotFoundError: Cannot find module for page: route not found /_not-found/page"}
+{"timestamp":"20:00:39.670","source":"Browser","level":"ERROR","message":"Uncaught PageNotFoundError: Cannot find module for page: route not found /_not-found/page"}
+{"timestamp":"20:00:39.672","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught PageNotFoundError: Cannot find module for page: route not found /_not-found/page\\u001b[39m\""}
