@@ -1,0 +1,15 @@
+{% css %}{% include "components/Header.css" %}{% endcss %}
+{% js %}{% include "components/Header.js" %}{% endjs %}
+<header>
+  <nav>
+    <button popovertarget="menu">Menu</button>
+
+    <ul id="menu" popover="auto">
+      {% for link in links %}
+        <li>
+          <a href="{{ link.to }}">{{ link.label }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>

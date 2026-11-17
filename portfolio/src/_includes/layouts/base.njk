@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio</title>
+    <meta property="og:title" content="Mohamed El Ibrahymy " />
+    <meta
+      property="og:description"
+      content="Ik bouw snelle, toegankelijke websites voor kleine bedrijven en bureaus."
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700;800&family=Space+Mono&display=swap"
+    />
+    <style>
+    {% getBundle "css" %}
+    </style>
+  </head>
+  <body>
+    {{ content | safe }}
+
+    {% css %}
+    {% include "styles/index.css" %}
+    {% endcss %}
+
+    <script type="module">
+    {% getBundle "js" %}
+    </script>
+  </body>
+</html>

@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "https://hvana.netlify.app/",
+    "title": "Hvana",
+    "description": "Barometer opdracht hvana",
+    "image": "/hvana.jpg",
+    "tags": ["[Sveltekit]", "[2026]"]
+  },
+  {
+    "slug": "https://proof-of-concept-qs99.onrender.com/",
+    "title": "Tweakers",
+    "description": "Community manager dashboard.",
+    "image": "/tweakers.jpg",
+    "tags": ["[Liquid]", "[2026]"]
+  },
+  {
+    "slug": "",
+    "title": "Binnenkort beschikbaar",
+    "description": "",
+    "image": "/question.jpg"
+  }
+]
